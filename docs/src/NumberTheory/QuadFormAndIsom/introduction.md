@@ -131,3 +131,5 @@ Please direct questions about this part of OSCAR to the following people:
 You can ask questions in the [OSCAR Slack](https://www.oscar-system.org/community/#slack).
 
 Alternatively, you can [raise an issue on GitHub](https://github.com/oscar-system/Oscar.jl).
+
+<!-- Auto-update: 2025-10-03T13:53:37.685596 -->
